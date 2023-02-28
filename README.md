@@ -9,8 +9,11 @@ Segue abaixo o dicionário de dados:
 
 Nome da coluna  	  Descrição
 BIRTH_YEAR	        Ano de nascimento do paciente. (Integer)
+
 GENDER_FACTOR	      Gênero do paciemte. (String)
+
 RACE_FACTOR	        Raça do pacient (String)
+
 ETHNICITY_FACTOR	  Etnia do Paciente. (String)
 PAYER_FACTOR	      Cobertura de seguro do paciente. (String)
 ATOPIC_MARCH_COHORT	Coorte do paciente of the patient. (String)
