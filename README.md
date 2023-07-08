@@ -1,4 +1,6 @@
 # childhood_allergies
+
+# 📖 Contexto
 Analise de dados realizada sobre a Investigação da prevalência de alergias, resultados do tratamento e dados demográficos do paciente.
 
 O Banco foi coletado através da plataforma Kaggle no endereço https://www.kaggle.com/datasets/thedevastator/childhood-allergies-prevalence-diagnosis-and-tre
