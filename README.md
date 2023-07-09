@@ -1,11 +1,16 @@
-# childhood_allergies
+![image](https://github.com/LerinaMM/childhood_allergies/assets/83770121/2ab41d3b-b329-4c71-895e-99511163a95e)
+
+
+# ALERGIAS EM CRIANÇAS
 
 # 📖 Contexto
+
 Analise de dados realizada sobre a Investigação da prevalência de alergias, resultados do tratamento e dados demográficos do paciente.
+Este conjunto de dados ajuda a entender melhor a prevalência e os resultados do tratamento de alergias infantis durante um longo período de tempo. Não apenas divulga o número de indivíduos que sofrem atualmente de asma, dermatite atópica, rinite alérgica e alergias alimentares por meio de dados retrospectivos relatados por profissionais de saúde - mas também apresenta um conjunto de colunas que nos permitem obter informações valiosas sobre como esses resultados diferem em diferentes dados demográficos, como gênero, raça e etnia. Ao examinar mais a fundo os dados, podemos começar a reconhecer padrões nas tendências entre os casos diagnosticados - abrindo caminho para novos tratamentos e estratégias de prevenção que podem prevenir reações alérgicas graves em muitas crianças em todo o mundo.
+
+# 🌐 Fonte
 
 O Banco foi coletado através da plataforma Kaggle no endereço https://www.kaggle.com/datasets/thedevastator/childhood-allergies-prevalence-diagnosis-and-tre
-
-Este conjunto de dados ajuda a entender melhor a prevalência e os resultados do tratamento de alergias infantis durante um longo período de tempo. Não apenas divulga o número de indivíduos que sofrem atualmente de asma, dermatite atópica, rinite alérgica e alergias alimentares por meio de dados retrospectivos relatados por profissionais de saúde - mas também apresenta um conjunto de colunas que nos permitem obter informações valiosas sobre como esses resultados diferem em diferentes dados demográficos, como gênero, raça e etnia. Ao examinar mais a fundo os dados, podemos começar a reconhecer padrões nas tendências entre os casos diagnosticados - abrindo caminho para novos tratamentos e estratégias de prevenção que podem prevenir reações alérgicas graves em muitas crianças em todo o mundo.
 
 # 💾 Dados
 
